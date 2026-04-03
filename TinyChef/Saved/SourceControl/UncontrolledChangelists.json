@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/GitHub/TinyChef/TinyChef/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/scene_PhysicsAsset.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/scene_Skeleton.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/Rat_Eye_Material_diffuse.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/Gums_Material_diffuse.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/Teeth_Material_diffuse.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/Tounge_Material_diffuse.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/Rat_Main_Material_diffuse.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/Rat_Eye_Material.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/Gums_Material.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/Tounge_Material.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/Rat_Main_Material.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/Teeth_Material.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/scene.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/scene_Anim.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/Material_001.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/Rat_39_Test.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/Rat_39_Test_Anim_Armature_Attack.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/Rat_39_Test_Anim_Armature_Hit.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/Rat_39_Test_Anim_Armature_Idle.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/Rat_39_Test_Anim_Armature_Walk.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/Rat_39_Test_PhysicsAsset.uasset",
+				"C:/GitHub/TinyChef/TinyChef/Content/Characters/Rat/Rat_39_Test_Skeleton.uasset"
+			]
+		}
+	]
+}
